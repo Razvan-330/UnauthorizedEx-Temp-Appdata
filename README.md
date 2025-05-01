@@ -12,7 +12,6 @@ Most legitimate applications do not execute files directly from these folders, m
 
 <br />
 
-
 <h2>Languages and Utilities Used</h2>
 
 - <b>SPL-Search Processing Language</b>
